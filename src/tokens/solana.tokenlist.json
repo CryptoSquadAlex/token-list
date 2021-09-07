@@ -11977,6 +11977,17 @@
         "website": "https://raydium.io/"
       }
     }
+     {
+      "chainId": 101,
+      "address": "3MSNFTuKGagQXPSPsq2oi11S62bpjEDyYxTG9m6uc4Ur",
+      "symbol": "CST",
+      "name": "CryptoSquadToken",
+      "decimals": 0,
+      "logoURI": "",
+      "tags": [
+        "nft"
+      ],
+      "extensions": {"      }
   ],
   "version": {
     "major": 0,
